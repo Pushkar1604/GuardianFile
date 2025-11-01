@@ -1,0 +1,8 @@
+{
+    "monitor_directories": [
+        "./test_files",
+        "./important_docs"
+    ],
+    "baseline_file": "file_baseline.json",
+    "check_interval": 60
+}
